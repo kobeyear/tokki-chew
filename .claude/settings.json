@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/ellio/Downloads/**)",
+      "Bash(python -c \"from PIL import Image; im=Image.open\\('c:/Users/ellio/TokkiChewWebsite/assets/hero_banner.jpg'\\); print\\(f'{im.size[0]}x{im.size[1]}'\\)\")",
+      "Bash(python3 -c \"from PIL import Image; im=Image.open\\('c:/Users/ellio/TokkiChewWebsite/assets/hero_banner.jpg'\\); print\\(f'{im.size[0]}x{im.size[1]}'\\)\")"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\ellio\\.claude\\projects\\c--Users-ellio-TokkiChewWebsite",
+      "c:\\Users\\ellio\\Downloads"
+    ]
+  }
+}
