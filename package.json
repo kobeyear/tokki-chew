@@ -1,0 +1,32 @@
+{
+  "name": "tokki-chew",
+  "version": "1.0.0",
+  "description": "Luxury Korean collagen gummy brand website with dreamy aesthetics",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 3000",
+    "deploy": "vercel",
+    "build": "echo 'Static site - no build process needed'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "korean-beauty",
+    "collagen",
+    "gummies",
+    "supplements",
+    "luxury-wellness",
+    "beauty-from-within",
+    "glass-morphism",
+    "premium-skincare"
+  ],
+  "author": "Tokki Chew Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/tokki-chew.git"
+  },
+  "homepage": "https://tokkichew.com",
+  "devDependencies": {},
+  "dependencies": {}
+}
