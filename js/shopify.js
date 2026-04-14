@@ -3,7 +3,7 @@
 
 const SHOPIFY_CONFIG = {
   domain: 'tokki-chew.myshopify.com',
-  storefrontAccessToken: 'YOUR_SHOPIFY_STOREFRONT_TOKEN',
+  storefrontAccessToken: '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',
   apiVersion: '2026-04'
 };
 
